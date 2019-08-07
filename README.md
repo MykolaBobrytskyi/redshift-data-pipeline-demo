@@ -23,3 +23,4 @@ terraform destroy
 
 This will fail to remove the S3 bucket if there were data created outside of the Terraform configs, so those will have to be deleted manually.
 
+https://medium.com/@aoc/kinesis-firehose-to-redshift-pipeline-with-terraform-2261b5afd29d
